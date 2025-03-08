@@ -27,6 +27,7 @@ let drawAll;
 let snakeMovement;
 initGame();
 draw();
+console.log('test')
 
 function initGame() {
     score = -1;
